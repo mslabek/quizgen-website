@@ -23,7 +23,7 @@
     <BaseSlider
       v-model.number="formState.answerCount"
       label="Question count: "
-      :min="5"
+      :min="2"
       :max="10"
     />
     <div class="text-center my-5">
