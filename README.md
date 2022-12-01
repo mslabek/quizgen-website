@@ -5,6 +5,10 @@
 
 A Vue application for generating and solving quizzes.
 
+[Live demo](https://quizgen.onrender.com/)
+
+Repository of the backend application is available [here](https://github.com/mslabek/quizgen-backend).
+
 ## 📖 Table of Contents
 
 - [General Information](https://github.com/mslabek/quizgen-website#-general-information)
